@@ -37,8 +37,12 @@ and [this one](https://github.com/Mehrdadghassabi/Mednli_experiments/blob/main/T
 # Augmented transformers
 using previous way we did some Augmentation on datas using text attack library see [this notebook](https://github.com/Mehrdadghassabi/Mednli_experiments/blob/main/Augmented_transformers/Untitled76.ipynb) for further informations.
 
-# Selector
+# Selector (incomplete)
+having a neural network that do the inference for us we used another neural network to decide whether this network is sure about its decison or not,
+then for the examples that the neural network is unsure about it we can use another agent.
 
 # Recurrent neural networks with transformers
+the idea is to give the contextualized embedding of the transformers to a Recurrent neural network,
+see [this notebook](https://github.com/Mehrdadghassabi/Mednli_experiments/blob/main/RNN_with_transformers/Untitled72.ipynb) for further informations.
 
 # hybrid AI
