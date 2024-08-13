@@ -16,3 +16,8 @@ for classification.
 see [this notebook](https://github.com/Mehrdadghassabi/Mednli_experiments/blob/main/Recurrent_NN/Notebooks/Untitled64.ipynb) or
 [this notebook](https://github.com/Mehrdadghassabi/Mednli_experiments/blob/main/Recurrent_NN/Notebooks/Untitled65.ipynb)
 for further informations.
+
+# Recurrent neural networks with Attention
+inspired by [this article](https://arxiv.org/pdf/1509.06664) we used an attention module to further contextualize the embeddings
+see [this notebook](https://github.com/Mehrdadghassabi/Mednli_experiments/blob/main/Recurrent_NN_with_Attention/Notebooks/Untitled66.ipynb)
+or [this notebook](https://github.com/Mehrdadghassabi/Mednli_experiments/blob/main/Recurrent_NN_with_Attention/Notebooks/Untitled67.ipynb)
