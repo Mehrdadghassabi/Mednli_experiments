@@ -22,11 +22,23 @@ for further informations.
 inspired by [this article](https://arxiv.org/pdf/1509.06664) we used an attention module to further contextualize the embeddings it achieved about 69% accuracy on MedNli dataset.
 see [this notebook](https://github.com/Mehrdadghassabi/Mednli_experiments/blob/main/Recurrent_NN_with_Attention/Notebooks/Untitled66.ipynb)
 or [this notebook](https://github.com/Mehrdadghassabi/Mednli_experiments/blob/main/Recurrent_NN_with_Attention/Notebooks/Untitled67.ipynb)
+for further informations.
 
 # Interaction space (incomplete)
 inspired by [this article](https://arxiv.org/abs/1802.03198) Ive implemented a neural network to do the inference based on interaction space
-see [this notebook](https://github.com/Mehrdadghassabi/Mednli_experiments/blob/main/Interaction_space/Untitled71.ipynb)
+see [this notebook](https://github.com/Mehrdadghassabi/Mednli_experiments/blob/main/Interaction_space/Untitled71.ipynb) for further informations.
 
 # Transformers
 using the famous [attention is all you need paper](https://arxiv.org/abs/1706.03762) encoder we enhanced contexualizing of premise and hypothesis and then
 taking hadamard product of embeddings we do a classification task, it achieved 75% accuracy on MedNli dataset.
+[this notebook](https://github.com/Mehrdadghassabi/Mednli_experiments/blob/main/Transformers/Notebooks/Untitled68.ipynb) have done this using Early stoping
+and [this one](https://github.com/Mehrdadghassabi/Mednli_experiments/blob/main/Transformers/Notebooks/Untitled70.ipynb) have done it without Early stoping
+
+# Augmented transformers
+using previous way we did some Augmentation on datas using text attack library see [this notebook](https://github.com/Mehrdadghassabi/Mednli_experiments/blob/main/Augmented_transformers/Untitled76.ipynb) for further informations.
+
+# Selector
+
+# Recurrent neural networks with transformers
+
+# hybrid AI
